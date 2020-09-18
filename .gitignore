@@ -1,0 +1,6 @@
+
+ckpt_*/
+__pycache__/
+nohup*
+tests/
+runs/
