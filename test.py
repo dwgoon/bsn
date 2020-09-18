@@ -19,7 +19,6 @@ from torch.utils.data import DataLoader
 from torch.utils.data.sampler import SubsetRandomSampler
 from sklearn.metrics import roc_curve, roc_auc_score
 from sklearn.metrics import confusion_matrix
-import matplotlib.pyplot as plt
 
 from models import ModelFactory
 import utils

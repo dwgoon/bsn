@@ -4,12 +4,8 @@ from glob import glob
 from datetime import datetime
 
 import numpy as np
-import matplotlib.pyplot as plt
-
 import torch
 from torch import nn
-
-
 
 def get_str_now(fstr="%Y%m%d-%H%M%S"):
     dt = datetime.now()
