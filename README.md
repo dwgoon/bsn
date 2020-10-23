@@ -14,7 +14,7 @@ python automate.py --config config_automate.yml
 ## Dependencies
 - [pytorch](https://pytorch.org)
 - [scikit-learn](https://scikit-learn.org)
-- [numpy](https://pandas.pydata.org)
+- [numpy](https://numpy.org)
 - [pandas](https://pandas.pydata.org)
 - [librosa](https://github.com/librosa/librosa)
 - [pyyaml](https://pyyaml.org)
