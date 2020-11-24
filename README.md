@@ -19,7 +19,7 @@ python automate.py --config config_automate.yml
 - [librosa](https://github.com/librosa/librosa)
 - [pyyaml](https://pyyaml.org)
 - [tqdm](https://github.com/tqdm/tqdm)
-
+- [matplotlib](https://matplotlib.org)
 
 ## Dataset
 - Cover and stego datasets were created based on [TIMIT dataset](https://catalog.ldc.upenn.edu/LDC93S1).
