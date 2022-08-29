@@ -6,7 +6,7 @@
 JOBS:    
   # Examples of CL
   - MODEL: "bsn"
-    DATASET: "tiit"
+    DATASET: "timit"
     STEGANOGRAPHY: "lsb-rs"
     TRAIN:
       LEARNING_TYPE: "CL"
@@ -18,7 +18,7 @@ JOBS:
       N_REPEATS: 100
 
   - MODEL: "bsn"
-    DATASET: "tiit"
+    DATASET: "timit"
     STEGANOGRAPHY: "lsb-ms"
     TRAIN:
       LEARNING_TYPE: "CL"
